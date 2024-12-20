@@ -1,6 +1,6 @@
 # SaveMyInputs
 
-Simple tool to save inputs
+Simple tool to save inputs (especially for Sakai LMS)
 
 ## Install
 
