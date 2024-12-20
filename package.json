@@ -1,0 +1,17 @@
+{
+  "name": "SaveMyInputs",
+  "version": "0.0.1",
+  "description": "Simple tool to save inputs",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "@webextension-toolbox/webextension-toolbox": "^7.1.1",
+    "webextension-toolbox": "^4.0.3"
+  },
+  "dependencies": {
+    "generator-web-extension": "^0.0.5",
+    "yo": "^5.1.0"
+  }
+}
